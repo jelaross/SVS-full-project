@@ -1,0 +1,46 @@
+E:\Secure Voting System\Secure Voting System\Secure Voting System\bin\Debug\Secure Voting System.exe.config
+E:\Secure Voting System\Secure Voting System\Secure Voting System\bin\Debug\Secure Voting System.exe
+E:\Secure Voting System\Secure Voting System\Secure Voting System\bin\Debug\Secure Voting System.pdb
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure Voting System.csprojResolveAssemblyReference.cache
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.Properties.Resources.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure Voting System.csproj.GenerateResource.Cache
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure Voting System.exe
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure Voting System.pdb
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.ElectionCommission.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.login.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.staffadd.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.Addcandidate.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.addelection.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.addvoters.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.staffdashboard.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.viewresult.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.viewvoter.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.Voter.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.Form1.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.editstaff.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\obj\Debug\Secure_Voting_System.editelection.resources
+E:\Secure Voting System\Secure Voting System\Secure Voting System\bin\Debug\Resources\eye.png
+E:\Secure Voting System\Secure Voting System\Secure Voting System\bin\Debug\Resources\eyeClose.png
+E:\SVS-main\SVS-main\Secure Voting System\bin\Debug\Secure Voting System.exe.config
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure Voting System.exe
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure Voting System.pdb
+E:\SVS-main\SVS-main\Secure Voting System\bin\Debug\Resources\eye.png
+E:\SVS-main\SVS-main\Secure Voting System\bin\Debug\Resources\eyeClose.png
+E:\SVS-main\SVS-main\Secure Voting System\bin\Debug\Secure Voting System.exe
+E:\SVS-main\SVS-main\Secure Voting System\bin\Debug\Secure Voting System.pdb
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure Voting System.csprojResolveAssemblyReference.cache
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.Addcandidate.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.addelection.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.addvoters.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.ElectionCommission.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.login.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.Properties.Resources.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.staffadd.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.staffdashboard.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.editelection.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.editstaff.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.viewvoter.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.Voter.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure Voting System.csproj.GenerateResource.Cache
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.viewresult.resources
+E:\SVS-main\SVS-main\Secure Voting System\obj\Debug\Secure_Voting_System.editcandidate.resources
